@@ -51,17 +51,17 @@ matrix = [[9, -3, -6],
 - Simpson Rule
 solved example : 
 ```bash
-Input is in provide text file named "Simpson_Rule_input"
+Input is in provided text file named "Simpson_Rule_input"
 ```
 - Central Difference Method
 solved example : 
 ```bash
-Input is in provide text file named "Simpson_Rule_input" except first and last data
+Input is in provided text file named "Simpson_Rule_input" except first and last data
 ```
 - Second Derivative Central Difference Method
 solved example : 
 ```bash
-Input is in provide text file named "Simpson_Rule_input" for datas number 5 upto 9991
+Input is in provided text file named "Simpson_Rule_input" for datas number 5 upto 9991
 ```
 
 
